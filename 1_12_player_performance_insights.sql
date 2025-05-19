@@ -1,0 +1,4 @@
+SELECT DISTINCT player_name,score
+FROM Players
+ORDER BY 2 DESC
+LIMIT 3;
